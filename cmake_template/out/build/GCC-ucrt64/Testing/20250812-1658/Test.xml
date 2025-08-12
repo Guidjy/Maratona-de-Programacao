@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20250812-1658-Experimental"
+	Name="DESKTOP-D3OO273"
+	Generator="ctest-4.1.0"
+	CompilerName="C:/msys64/ucrt64/bin/g++.exe"
+	CompilerVersion="14.2.0"
+	OSName="Windows"
+	Hostname="DESKTOP-D3OO273"
+	OSRelease=" Personal"
+	OSVersion=" (Build 26100)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="20419"
+	TotalPhysicalMemory="16067"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="1400"
+	>
+	<Testing>
+		<StartDateTime>Aug 12 14:15 E. South America Standard Time</StartDateTime>
+		<StartTestTime>1755018951</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 12 14:15 E. South America Standard Time</EndDateTime>
+		<EndTestTime>1755018951</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
